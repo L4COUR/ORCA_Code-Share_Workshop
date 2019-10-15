@@ -3,7 +3,30 @@
 
 - step by step guide of how to install Orca
 
+You can download [builds](https://hundredrabbits.itch.io/orca) for **OSX, Windows and Linux**, or if you wish to build it yourself, follow these steps:
 
+- open up your terminal, or command-prompt(CMD).
+
+```
+git clone https://github.com/hundredrabbits/Orca.git
+cd Orca/desktop/
+npm install
+npm start
+```
+
+or...
+
+Go to their Website https://hundredrabbits.itch.io/orca, and download your corresponding build.
+
+<img src="./media/download.png" alt="download" style="zoom:50%;" />
+
+you can always open up Orca by running the terminal and typing in
+
+```
+cd Orca/desktop/
+npm install
+npm start
+```
 
 ## What is Orca?
 
