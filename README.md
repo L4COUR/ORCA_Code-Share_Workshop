@@ -15,7 +15,7 @@ or...
 
 Go to their Website https://hundredrabbits.itch.io/orca, and download your corresponding build.
 
-<img src="./media/download.png" alt="download" style="zoom:50%;" />
+<img src="./media/download.png" alt="download" style="zoom: 33%;" />
 
 you can always open up Orca by running the terminal and typing in
 
@@ -27,7 +27,7 @@ npm start
 
 ## What is Orca?
 
-![](./media/Orca_Map.gif)
+<img src="./media/Orca_Map.gif" style="zoom:50%;" />
 
 ## How to manuever
 
@@ -89,7 +89,7 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 
 **H** = Halts southward operand
 
-![](http://tropone.de/wp-content/uploads/2019/03/Halt.gif)
+<img src="http://tropone.de/wp-content/uploads/2019/03/Halt.gif"  />
 
 ## Copy, Paste, Delete Algorithms with Orca
 
@@ -98,7 +98,7 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 - use (cmd/ctrl)+c and (cmd/ctrl)+v, as per usual to copy and paste your algorithms
 - use backspace to delete algorithms
 
-![](./media/ORCA-Copy-paste.gif)
+<img src="./media/ORCA-Copy-paste.gif" style="zoom: 50%;" />
 
 ## Connect Orca with?
 
@@ -108,7 +108,7 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 
 - Pilot
 
-![](./media/Pilot.png)
+<img src="./media/Pilot.png" style="zoom:50%;" />
 
 - Zupitor web browser modular synth
 
