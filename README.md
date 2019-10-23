@@ -1,11 +1,8 @@
 # ORCA_Code-Share_Workshop
 ## Setup
-
-- step by step guide of how to install Orca
-
 You can download [builds](https://hundredrabbits.itch.io/orca) for **OSX, Windows and Linux**, or if you wish to build it yourself, follow these steps:
 
-- open up your terminal, or command-prompt(CMD).
+- If you have Git, open up your terminal, or command-prompt(CMD).
 
 ```
 git clone https://github.com/hundredrabbits/Orca.git
