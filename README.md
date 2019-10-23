@@ -122,7 +122,7 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 
 ### Ways of Communicating
 
-<img src="/Users/Pacour/Developer/ORCA_Code-Share_Workshop/media/Orca_UDP_MIDI_OSC.png"  />
+<img src="./media/Orca_UDP_MIDI_OSC.png"  />
 
 - UDP = Pilot, Max/MSP
 - MIDI = External Hardware, Ableton, VCV Rack, Zupitor, Max/MSP...
