@@ -158,3 +158,4 @@ In the video I am sending a Midi message from Orca to a hardware synth, and then
 - https://github.com/hundredrabbits/pilot
 - https://www.youtube.com/watch?v=RaI_TuISSJE&t=9s
 - https://www.youtube.com/watch?v=CR1TMGYhCoE&t=2s
+- http://tropone.de/2019/03/13/orca-ein-sequenzer-der-kryptischer-nicht-aussehen-kann-und-ein-versuch-einer-anleitung/
