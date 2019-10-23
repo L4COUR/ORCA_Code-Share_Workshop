@@ -102,6 +102,8 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 
 ## Connect Orca with?
 
+![Orca_connections](./media/Orca_connections.png)
+
 ### Free
 
 - Pilot 
@@ -109,8 +111,6 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 ![](/Users/Pacour/Developer/ORCA_Code-Share_Workshop/media/Pilot.png)
 
 - Zupitor web browser modular synth
-
-![](/Users/Pacour/Developer/ORCA_Code-Share_Workshop/media/Zupitor.png)
 
 - VCV Rack
 
@@ -122,9 +122,9 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 
 ### ways of communicating
 
-- UDP = Pilot...
+- UDP = Pilot, Max/MSP
 - MIDI = External Hardware, Ableton, VCV Rack, Zupitor, Max/MSP...
-- OSC = Max/MSP...
+- OSC = Max/MSP
 
 ## Sources
 
