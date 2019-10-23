@@ -30,13 +30,30 @@ npm start
 
 ## What is Orca?
 
-- Map analogy, it's creators
-- how to manuever
+![](./media/Orca_Map.gif)
+
+## How to manuever
+
+- use the arrowkeys to move around the map
+- "space-bar" to play or pause Orca
+- (cmd/ctrl) + g = help overlay
+
+## Hello World (using Pilot)
+
+![](/Users/Pacour/Developer/ORCA_Code-Share_Workshop/media/Orca_Hello-World.gif)
+
+Orca and Pilot can communicate with each other using UDP messages. These are symbolised with ";" in Orca. in this instance i have assigned the UDP-message with 3 parameters.
+
+RED = UDP channels (0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F)
+
+GREEN = Note value (2C = second octave, middle C)
+
+BLUE = Bang! = "*" = Activates the message = micro compiling
+
 - basic operators
-- Help Overlay/reference
 - a quick example
 
-## what can you connect Orca with?
+## Connect Orca with?
 
 ### Free
 
