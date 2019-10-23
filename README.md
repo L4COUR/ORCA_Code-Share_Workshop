@@ -106,9 +106,9 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 
 ### Free
 
-- Pilot 
+- Pilot
 
-![](/Users/Pacour/Developer/ORCA_Code-Share_Workshop/media/Pilot.png)
+![](./media/Pilot.png)
 
 - Zupitor web browser modular synth
 
@@ -134,4 +134,3 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 - https://github.com/hundredrabbits/pilot
 - https://www.youtube.com/watch?v=RaI_TuISSJE&t=9s
 - https://www.youtube.com/watch?v=CR1TMGYhCoE&t=2s
-
