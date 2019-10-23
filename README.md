@@ -106,11 +106,11 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 
 - Pilot 
 
-![](/Users/Pacour/Developer/ORCA_Code-Share_Workshop/media/Pilot.png)
+![](./media/Pilot.png)
 
 - Zupitor web browser modular synth
 
-![](/Users/Pacour/Developer/ORCA_Code-Share_Workshop/media/Zupitor.png)
+![](./media/Zupitor.png)
 
 - VCV Rack
 
