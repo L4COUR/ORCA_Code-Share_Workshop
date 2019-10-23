@@ -122,9 +122,9 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 
 ### ways of communicating
 
-- UDP = Pilot, Max/MSP
-- MIDI = External Hardware, Ableton, VCV Rack, Zupitor, Max/MSP...
-- OSC = Max/MSP
+- UDP (;) = Pilot, Max/MSP
+- MIDI (:) = External Hardware, Ableton, VCV Rack, Zupitor, Max/MSP...
+- OSC (=) = Max/MSP
 
 ## Sources
 
