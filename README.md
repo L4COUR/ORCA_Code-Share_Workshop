@@ -37,7 +37,7 @@ npm start
 
 ## Hello World (using Pilot)
 
-![](/Users/Pacour/Developer/ORCA_Code-Share_Workshop/media/Orca_Hello-World.gif)
+![](./media/Orca_Hello-World.gif)
 
 Orca and Pilot can communicate with each other using UDP messages. These are symbolised with ";" in Orca. in this instance i have assigned the UDP-message with 3 parameters.
 
