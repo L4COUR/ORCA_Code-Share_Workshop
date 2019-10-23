@@ -132,6 +132,8 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 
 https://vimeo.com/359025238
 
+In the video I am sending a Midi message from Orca to a hardware synth, and then routing the hardware synths audio through Max/MSP where I use a "yafr2"-reverb to make the sound more spacious. Lets us try to accomplish a similar result using just Orca and Pilot!
+
 ```
 ...1R8........
 34L31375TADQsW
