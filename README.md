@@ -120,11 +120,13 @@ BLUE = Bang! = "*" = Activates the message = micro compiling
 - Ableton/ any DAW
 - External Hardware Synths with Midi-inputs
 
-### ways of communicating
+### Ways of Communicating
 
-- UDP (;) = Pilot, Max/MSP
-- MIDI (:) = External Hardware, Ableton, VCV Rack, Zupitor, Max/MSP...
-- OSC (=) = Max/MSP
+<img src="/Users/Pacour/Developer/ORCA_Code-Share_Workshop/media/Orca_UDP_MIDI_OSC.png"  />
+
+- UDP = Pilot, Max/MSP
+- MIDI = External Hardware, Ableton, VCV Rack, Zupitor, Max/MSP...
+- OSC = Sonic Pi, Max/MSP
 
 ## Sources
 
